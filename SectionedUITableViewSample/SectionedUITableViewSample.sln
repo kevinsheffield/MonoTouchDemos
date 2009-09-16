@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SectionedUITableViewSample", "SectionedUITableViewSample\SectionedUITableViewSample.csproj", "{283FAF39-9EF5-403D-BA0D-77F5F49E7EDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{283FAF39-9EF5-403D-BA0D-77F5F49E7EDC}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{283FAF39-9EF5-403D-BA0D-77F5F49E7EDC}.Debug|iPhone.Build.0 = Debug|iPhone
+		{283FAF39-9EF5-403D-BA0D-77F5F49E7EDC}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{283FAF39-9EF5-403D-BA0D-77F5F49E7EDC}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{283FAF39-9EF5-403D-BA0D-77F5F49E7EDC}.Release|iPhone.ActiveCfg = Release|iPhone
+		{283FAF39-9EF5-403D-BA0D-77F5F49E7EDC}.Release|iPhone.Build.0 = Release|iPhone
+		{283FAF39-9EF5-403D-BA0D-77F5F49E7EDC}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{283FAF39-9EF5-403D-BA0D-77F5F49E7EDC}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = SectionedUITableViewSample\SectionedUITableViewSample.csproj
+	EndGlobalSection
+EndGlobal

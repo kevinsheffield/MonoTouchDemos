@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" ctype="Workspace" />
+  <MonoDevelop.Ide.DebuggingService>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kevinsheffield/Projects/helloworldiphone/helloworldiphone/Main.cs" line="40" />
+      <Breakpoint file="/Users/kevinsheffield/Projects/helloworldiphone/helloworldiphone/Main.cs" line="32" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SectionedUITableViewSample/Main.cs" ctype="Workbench">
+    <Files>
+      <File FileName="SectionedUITableViewSample/MainWindow.xib.designer.cs" Line="1" Column="1" />
+      <File FileName="SectionedUITableViewSample/Main.cs" Line="5" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="SectionedUITableViewSample" expanded="True">
+            <Node name="Main.cs" selected="True" />
+            <Node name="MainWindow.xib" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
